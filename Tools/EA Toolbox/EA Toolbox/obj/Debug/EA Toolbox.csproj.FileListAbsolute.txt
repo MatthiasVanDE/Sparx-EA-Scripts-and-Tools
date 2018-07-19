@@ -1,0 +1,6 @@
+C:\Users\vandem11\Documents\GitHub\Sparx-EA-Scripts-and-Tools\Tools\EA Toolbox\EA Toolbox\bin\Debug\EA Toolbox.exe.config
+C:\Users\vandem11\Documents\GitHub\Sparx-EA-Scripts-and-Tools\Tools\EA Toolbox\EA Toolbox\bin\Debug\EA Toolbox.exe
+C:\Users\vandem11\Documents\GitHub\Sparx-EA-Scripts-and-Tools\Tools\EA Toolbox\EA Toolbox\bin\Debug\EA Toolbox.pdb
+C:\Users\vandem11\Documents\GitHub\Sparx-EA-Scripts-and-Tools\Tools\EA Toolbox\EA Toolbox\obj\Debug\EA Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\vandem11\Documents\GitHub\Sparx-EA-Scripts-and-Tools\Tools\EA Toolbox\EA Toolbox\obj\Debug\EA Toolbox.exe
+C:\Users\vandem11\Documents\GitHub\Sparx-EA-Scripts-and-Tools\Tools\EA Toolbox\EA Toolbox\obj\Debug\EA Toolbox.pdb
