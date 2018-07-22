@@ -17,6 +17,7 @@ namespace EA_Toolbox
 			Console.WriteLine("Hello World!");
 			
 			// TODO: Implement Functionality Here
+			Swagger swagger = new Swagger();
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);

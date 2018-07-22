@@ -50,9 +50,33 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwaggerObjects\Contact.cs" />
+    <Compile Include="SwaggerObjects\Definition.cs" />
+    <Compile Include="SwaggerObjects\ExternalDoc.cs" />
+    <Compile Include="SwaggerObjects\Info.cs" />
+    <Compile Include="SwaggerObjects\License.cs" />
+    <Compile Include="SwaggerObjects\Operation.cs" />
+    <Compile Include="SwaggerObjects\Parameter.cs" />
+    <Compile Include="SwaggerObjects\Path.cs" />
+    <Compile Include="SwaggerObjects\PathItem.cs" />
+    <Compile Include="SwaggerObjects\Property.cs" />
+    <Compile Include="SwaggerObjects\PropertySchema.cs" />
+    <Compile Include="SwaggerObjects\Response.cs" />
+    <Compile Include="SwaggerObjects\ResponseCode.cs" />
+    <Compile Include="SwaggerObjects\Schema.cs" />
+    <Compile Include="SwaggerObjects\Scope.cs" />
+    <Compile Include="SwaggerObjects\SecurityDefinition.cs" />
+    <Compile Include="SwaggerObjects\SecurityRequirement.cs" />
+    <Compile Include="SwaggerObjects\SecurityScheme.cs" />
+    <Compile Include="SwaggerObjects\Swagger.cs" />
+    <Compile Include="SwaggerObjects\Tag.cs" />
+    <Compile Include="SwaggerObjects\XML.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SwaggerObjects" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
